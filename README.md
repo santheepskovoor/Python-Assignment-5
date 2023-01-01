@@ -1,5 +1,5 @@
 # Python-Assignment-5
-The Assignment consists of questions & Codes of below questions,
+The Assignment consists of questions & Codes of below mentioned problems
 
 Write a Python Program to Find LCM?
 Write a Python Program to Find HCF?
